@@ -11,7 +11,7 @@
 
 ## Courses
 
-![Advanced Operating System](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Advanced Operating System](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Advanced Operating System&logoColor=white)
 ![Data Structures and Algorithms](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![System Software Design](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
