@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lakshaybaijal" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" logoColor=white />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/mastermindshay" target="blank">
