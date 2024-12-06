@@ -20,8 +20,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
-![Coding Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
 
 
 
