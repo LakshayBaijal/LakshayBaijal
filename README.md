@@ -24,7 +24,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
-## Contributions
+## ⚡ Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayBaijal&theme=dark)
 
 
