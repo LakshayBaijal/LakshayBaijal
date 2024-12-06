@@ -13,21 +13,11 @@
 
 ## 📫 How to Reach Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lakshaybaijal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/mastermindshay" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61554273341056" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" width="40" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:lakshaybaijal@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="40" height="40" />
-  </a>
-</p>
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaybaijal) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mastermindshay) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554273341056) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaybaijal@gmail.com)
+
 
