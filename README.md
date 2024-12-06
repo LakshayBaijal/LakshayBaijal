@@ -17,7 +17,7 @@
 
 ## 🏆 Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=matrix)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)
 
 
 
