@@ -20,6 +20,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
+![Lakshay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LakshayBaijal&theme=react-dark)
 
 
 
