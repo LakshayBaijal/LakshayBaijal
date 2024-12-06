@@ -1,3 +1,3 @@
-# Hi there, I'm Lakshay Baijal! 👋
+![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
-![Banner](https://cdn.siasat.com/wp-content/uploads/2020/06/IIIT-Hyderabad.jpg)
+# Hi there, I'm Lakshay Baijal! 👋
