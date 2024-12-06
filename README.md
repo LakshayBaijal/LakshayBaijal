@@ -17,7 +17,7 @@
 
 ## 🏆 Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
+![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
 
 
