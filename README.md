@@ -1,7 +1,10 @@
 ![Fun GIF](https://media.giphy.com/media/your-gif-url/giphy.gif)
 
-### [Awesome Project](https://github.com/LakshayBaijal/awesome-project)
+## 📫 How to Reach Me
 
+- [Email](mailto:lakshay.baijal@example.com)
+- [LinkedIn](https://www.linkedin.com/in/lakshaybaijal/)
+- [Twitter](https://twitter.com/lakshaybaijal)
 
 ## 🏆 Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshayBaijal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
