@@ -1,5 +1,7 @@
 ![Fun GIF](https://media.giphy.com/media/your-gif-url/giphy.gif)
 
+### [Awesome Project](https://github.com/LakshayBaijal/awesome-project)
+
 
 ## 🏆 Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshayBaijal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
