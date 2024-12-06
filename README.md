@@ -9,19 +9,23 @@
 
 ![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
+## Courses
+
+![Advanced Operating System](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Structures and Algorithms](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![System Software Design](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBaijal&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayBaijal&theme=dark)
 
-![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified%20Developer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ## 🏆 Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
-![Lakshay's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LakshayBaijal&theme=react-dark)
+
 
 
 
