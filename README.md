@@ -12,7 +12,7 @@
 ## 🎓 Course Repositories
 ### IIIT Hyderabad Semester 1
 [![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_AOS_Assignments_Lakshay)
-[![Course: Data Structures and Algorithms](https://img.shields.io/badge/Course-Data%20Structures%20and%20Algorithms-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_DSAP_Assignments_Lakshay)
+[![Course: Data Structures and Algorithms](https://img.shields.io/badge/Course-Data%20Structures%20&%20Algorithms-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_DSAP_Assignments_Lakshay)
 [![Course: System Software Design](https://img.shields.io/badge/Course-Software%20System%20Design-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
 ## 📊 GitHub Statistics
