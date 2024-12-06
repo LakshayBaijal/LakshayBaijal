@@ -1,5 +1,6 @@
 ## 🏆 Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshayBaijal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Repo Count](https://img.shields.io/github/repos/LakshayBaijal?label=Repositories&style=flat)
 
 
 ## 🔥 Github Steak and Contribution
