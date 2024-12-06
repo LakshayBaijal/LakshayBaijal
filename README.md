@@ -9,11 +9,11 @@
 
 ![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
-## Courses
+## 🎓 Courses Repositories
 
-[![Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
-![Data Structures and Algorithms](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![System Software Design](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
+[![Course: Data Structures](https://img.shields.io/badge/Course-Data%20Structures-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
+[![Course: Algorithms](https://img.shields.io/badge/Course-Algorithms-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
 
 ## 📊 GitHub Statistics
 
