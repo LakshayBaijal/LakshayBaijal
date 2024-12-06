@@ -1,4 +1,4 @@
-![Banner](https://your-image-url.com/banner.png)
+![Banner](![Banner]([https://your-image-url.com/banner.png](https://www.sarkariresult.app/wp-content/uploads/2024/05/IIIT-Hyderabad.jpg)))
 
 ## 🏆 Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=LakshayBaijal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
