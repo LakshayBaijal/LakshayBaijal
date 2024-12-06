@@ -15,6 +15,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayBaijal&theme=dark)
 
+![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified%20Developer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🏆 Trophies
 
