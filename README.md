@@ -20,14 +20,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBaijal&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&layout=compact&theme=radical)
 
-## 🏆 Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
-
 ## ⚡ Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayBaijal&theme=dark)
 ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=lakshaybaijal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
 
 
