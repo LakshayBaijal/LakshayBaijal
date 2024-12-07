@@ -9,7 +9,6 @@
 
 ![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
-## ⚡ Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
