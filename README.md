@@ -26,9 +26,7 @@
 
 ## ⚡ Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LakshayBaijal&theme=dark)
-
-
-![](https://github-contributor-stats.vercel.app/api?username=lakshaybaijal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=lakshaybaijal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
