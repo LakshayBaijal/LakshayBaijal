@@ -45,5 +45,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&exclude_repo=repo1,repo2&theme=radical&layout=compact)
 
+## 🎓 Education
+
+[![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
+[![Course: Data Structures](https://img.shields.io/badge/Course-Data%20Structures-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
 
 
