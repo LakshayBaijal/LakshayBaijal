@@ -23,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-3670A0.svg?style=plastic&logo=django&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&exclude_repo=repo1,repo2&exclude=Makefile&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&exclude_repo=repo1,repo2&theme=radical&layout=compact)
 
 ## 🎓 Course Repositories
 ### IIIT Hyderabad Semester 1
