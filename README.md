@@ -43,4 +43,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBaijal&show_icons=true&theme=radical)
+
+
 
