@@ -9,6 +9,16 @@
 
 ![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
+## 🎓 Course Repositories
+### IIIT Hyderabad Semester 1
+[![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_AOS_Assignments_Lakshay)
+
+[![Course: Data Structures and Algorithms](https://img.shields.io/badge/Course-Data%20Structures%20&%20Algorithms-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_DSAP_Assignments_Lakshay)
+
+[![Course: System Software Design](https://img.shields.io/badge/Course-System%20Software%20Design-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
+
+## 📚 Top Languages
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -21,14 +31,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-3670A0.svg?style=plastic&logo=django&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&exclude_repo=repo1,repo2&theme=radical&layout=compact)
 
-## 🎓 Course Repositories
-### IIIT Hyderabad Semester 1
-[![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_AOS_Assignments_Lakshay)
-
-[![Course: Data Structures and Algorithms](https://img.shields.io/badge/Course-Data%20Structures%20&%20Algorithms-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_DSAP_Assignments_Lakshay)
-
-[![Course: System Software Design](https://img.shields.io/badge/Course-System%20Software%20Design-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics
 
@@ -41,13 +45,5 @@
 
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayBaijal&exclude_repo=repo1,repo2&theme=radical&layout=compact)
-
-## 🎓 Education
-
-[![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
-[![Course: Data Structures](https://img.shields.io/badge/Course-Data%20Structures-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
 
 
