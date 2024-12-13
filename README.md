@@ -36,7 +36,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Statistics
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/LakshayBaijal)
+![Leetcode Stats](https://leetcard.jacoblin.cool/LakshayBaijal?theme=unicorn)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBaijal&show_icons=true&theme=radical)
 
