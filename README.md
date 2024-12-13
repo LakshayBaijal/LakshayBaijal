@@ -31,7 +31,7 @@
 
 [![Course: Data Structures and Algorithms](https://img.shields.io/badge/Course-Data%20Structures%20&%20Algorithms-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_DSAP_Assignments_Lakshay)
 
-[![Course: System Software Design](https://img.shields.io/badge/Course-System%20Software%20Design-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
+[![Course: System Software Development](https://img.shields.io/badge/Course-System%20Software%20Development-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Statistics
