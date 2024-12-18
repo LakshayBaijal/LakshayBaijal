@@ -37,7 +37,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Statistics
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/LakshayBaijal?theme=unicorn)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-LakshayBaijal-orange?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/LakshayBaijal/)
+![GfG Contests](https://img.shields.io/badge/Contests-20%20Participated-blue?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBaijal&show_icons=true&theme=radical)
 
 
