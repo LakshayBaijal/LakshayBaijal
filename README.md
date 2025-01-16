@@ -33,18 +33,6 @@
 
 [![Course: System Software Development](https://img.shields.io/badge/Course-System%20Software%20Development-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Statistics
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/LakshayBaijal?theme=unicorn)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LakshayBaijal&show_icons=true&theme=radical)
-
-
-
-## ⚡ Contributions
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=lakshaybaijal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
 
