@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a45ca3b1-6b76-4bc0-a489-76fa720509a9)# Lakshay Baijal👋 ![Visitor Count](https://komarev.com/ghpvc/?username=LakshayBaijal&color=brightgreen)
+# Lakshay Baijal👋 ![Visitor Count](https://komarev.com/ghpvc/?username=LakshayBaijal&color=brightgreen)
 
 [![Web Portfolio](https://img.shields.io/badge/Website-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://lakshaybaijal.github.io/Lakshay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshaybaijal) 
