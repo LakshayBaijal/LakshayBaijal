@@ -34,7 +34,7 @@
 [![Course: System Software Development](https://img.shields.io/badge/Course-System%20Software%20Development-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
 ## Competitive Programming 
-[![Competitive Programming: PicoCTF 2025](https://img.shields.io/badge/Competition-Pico%20CTF%202025-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PicoCTF-2025-Questions-with-Answers)
+[![Competitive Programming: PicoCTF 2025](https://img.shields.io/badge/CyberSecurity-Pico%20CTF%202025-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PicoCTF-2025-Questions-with-Answers)
 
 ## 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=lakshaybaijal&theme=dark_lover)
