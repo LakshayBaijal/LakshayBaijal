@@ -36,6 +36,9 @@
 [![Statistical Mathematics in AI](https://img.shields.io/badge/Course-Statistical%20Mathematics%20in%20AI-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay)
 [![User Interaction and Usability of Digital Products ](https://img.shields.io/badge/Course-User%20Interaction%20and%20Usability%20of%20Digital%20Products-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/UIUD_Lakshay)
 
+[![System and Network Security](https://img.shields.io/badge/Course-System%20and%20Network%20Security-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SNS_Assignments_Lakshay)
+[![Principles of Information Security](https://img.shields.io/badge/Course-Principles%20of%20Information%20Security-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/POIS_Assignments_Lakshay)
+
 
 ## Competitive Programming 
 [![Competitive Programming: PicoCTF 2025](https://img.shields.io/badge/CyberSecurity-Pico%20CTF%202025-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PicoCTF-2025-Questions-with-Answers)
