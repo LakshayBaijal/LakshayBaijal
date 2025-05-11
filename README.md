@@ -33,10 +33,10 @@
 [![Course: System Software Development](https://img.shields.io/badge/Course-System%20Software%20Development-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
 ### IIIT Hyderabad Semester 2
-[![Statistical Mathematics in AI](https://img.shields.io/badge/Course-Statistical%20Mathematics%20in%20AI-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay)
-[![User Interaction and Usability of Digital Products ](https://img.shields.io/badge/Course-User%20Interaction%20and%20Usability%20of%20Digital%20Products-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/UIUD_Lakshay)
+[![Statistical Mathematics in AI](https://img.shields.io/badge/Course-Statistical%20Mathematics%20in%20AI-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay)
+[![User Interaction and Usability of Digital Products ](https://img.shields.io/badge/Course-User%20Interaction%20and%20Usability%20of%20Digital%20Products-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/UIUD_Lakshay)
 
-[![System and Network Security](https://img.shields.io/badge/Course-System%20and%20Network%20Security-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SNS_Assignments_Lakshay)
+[![System and Network Security](https://img.shields.io/badge/Course-System%20and%20Network%20Security-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SNS_Assignments_Lakshay)
 [![Principles of Information Security](https://img.shields.io/badge/Course-Principles%20of%20Information%20Security-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/POIS_Assignments_Lakshay)
 
 
