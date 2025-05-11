@@ -34,7 +34,7 @@
 [![Course: System Software Development](https://img.shields.io/badge/Course-System%20Software%20Development-FFC107?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_SSD_Assignments_Lakshay)
 
 ### IIIT Hyderabad Semester 2
-[![Course: Statistical Mathematics in AI](https://img.shields.io/badge/Course-Statistical%Mathematics%20in20AI-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay)
+[![Course: Statistical Mathematics in AI](https://img.shields.io/badge/Course-Statistical%Mathematics%20in%20AI-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SMAI_Assignments_Lakshay)
 
 
 ## Competitive Programming 
