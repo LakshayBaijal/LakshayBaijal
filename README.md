@@ -51,4 +51,5 @@
 [![Competitive Programming: PicoCTF 2025](https://img.shields.io/badge/CyberSecurity-Pico%20CTF%202025-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PicoCTF-2025-Questions-with-Answers)
 
 
+<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 
