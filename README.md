@@ -10,7 +10,8 @@
 ![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
 ## 🐍 Github Contribution
-![GitHub Snake Dark](https://raw.githubusercontent.com/LakshayBaijal/LakshayBaijal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/LakshayBaijal/LakshayBaijal/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📚 Top Languages
