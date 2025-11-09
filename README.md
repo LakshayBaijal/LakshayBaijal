@@ -55,10 +55,10 @@
 ## Competitive Programming 
 [![Competitive Programming: PicoCTF 2025](https://img.shields.io/badge/CyberSecurity-Pico%20CTF%202025-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PicoCTF-2025-Questions-with-Answers)
 
-### 🐍 My Contributions Snake
+## Developers Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/LakshayBaijal/LakshayBaijal/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/LakshayBaijal/LakshayBaijal/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
