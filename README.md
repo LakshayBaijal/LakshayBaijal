@@ -46,11 +46,14 @@
 
 ### Projects
 
+[![Research and Information Security](https://img.shields.io/badge/Project-Research%20and%20System%20Security%20CC%20Based%20CP%20ABE-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SSD_Project_Team30)
+
 [![System Software Development](https://img.shields.io/badge/Project-System%20Software%20Development%20Log%20Analysis%20using%20shell%20Scripting-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SSD_Project_Team30)
 
 [![Statistical Mathematics in AI](https://img.shields.io/badge/Project-Statistical%20Mathematics%20in%20AI%20Ball%20Tracking%20in%20Table%20Tennis-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SMAI_Project)
 
 [![BTECH Project](https://img.shields.io/badge/Project-NFA%20Workflow%20in%20Django-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/NFA-WorkFlow-in-Django)
+
 
 ## Competitive Programming 
 [![Competitive Programming: PicoCTF 2025](https://img.shields.io/badge/CyberSecurity-Pico%20CTF%202025-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PicoCTF-2025-Questions-with-Answers)
