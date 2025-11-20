@@ -46,7 +46,7 @@
 
 ### Projects
 
-[![Research and Information Security](https://img.shields.io/badge/Project-Research%20and%20System%20Security%Secure%20Multi%20Authority%20Hierarchical%20Access%20Control%20ECC%20Based%20CP%20ABE-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SSD_Project_Team30)
+[![Research and Information Security](https://img.shields.io/badge/Project-Research%20and%20System%20Security%20Secure%20Multi%20Authority%20Hierarchical%20Access%20Control%20ECC%20Based%20CP%20ABE-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SSD_Project_Team30)
 
 [![System Software Development](https://img.shields.io/badge/Project-System%20Software%20Development%20Log%20Analysis%20using%20shell%20Scripting-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SSD_Project_Team30)
 
