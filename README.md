@@ -43,12 +43,13 @@
 [![System and Network Security](https://img.shields.io/badge/Course-System%20and%20Network%20Security-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SNS_Assignments_Lakshay)
 [![Principles of Information Security](https://img.shields.io/badge/Course-Principles%20of%20Information%20Security-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/POIS_Assignments_Lakshay)
 
-### IIIT Hyderabad Semester 2
+### IIIT Hyderabad Semester 3
 
-[![Research and Information Security](https://img.shields.io/badge/Project-Research%20and%20System%20Security-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/RIS_Project/tree/main/Actual%20Implementation)
+[![Research and Information Security](https://img.shields.io/badge/Course-Research%20and%20System%20Security-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/RIS_Project/tree/main/Actual%20Implementation)
 
-[![Information Retrieval and Extraction](https://img.shields.io/badge/Assignment-Information%20Retrieval%20and%20Extraction-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Assignments_Lakshay)
+[![Information Retrieval and Extraction](https://img.shields.io/badge/Course-Information%20Retrieval%20and%20Extraction-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Assignments_Lakshay)
 
+[![Information Retrieval and Extraction](https://img.shields.io/badge/Project-Information%20Retrieval%20and%20Extraction-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Project)
 
 ### Projects
 
