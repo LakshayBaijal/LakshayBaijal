@@ -9,12 +9,12 @@
 
 ![Banner](https://mma.prnewswire.com/media/1900509/IIITH_Logo.jpg?p=twitter)
 
-## 🐍 Github Contribution
+## Github Contribution
 ![GitHub Snake](https://raw.githubusercontent.com/LakshayBaijal/LakshayBaijal/output/github-contribution-grid-snake.svg)
 
 
 
-## 📚 Top Languages
+## Top Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
@@ -29,7 +29,7 @@
 ![Django](https://img.shields.io/badge/django-3670A0.svg?style=plastic&logo=django&logoColor=white)
 
 
-## 🎓 Course Repositories
+## Course Repositories
 ### IIIT Hyderabad Semester 1
 [![Course: Advanced Operating System](https://img.shields.io/badge/Course-Advanced%20Operating%20System-3776AB?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_AOS_Assignments_Lakshay)
 [![Course: Data Structures and Algorithms](https://img.shields.io/badge/Course-Data%20Structures%20&%20Algorithms-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IIITHyderabad_DSAP_Assignments_Lakshay)
