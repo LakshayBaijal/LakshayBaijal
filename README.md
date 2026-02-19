@@ -54,8 +54,7 @@
 ### Projects
 
 
-[![SignalMesh](https://img.shields.io/badge/SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project
-)
+[![SignalMesh Project](https://img.shields.io/badge/SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project)
 
 [![ML Project](https://img.shields.io/badge/Project-ML%20Unsupervised%20Anomaly%20Detection%20in%20System%20Logs-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Project---Unsupervised-Anomaly-Detection-in-System-Logs)
 
