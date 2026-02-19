@@ -53,7 +53,6 @@
 
 ### Projects
 
-https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project
 
 [![SignalMesh](https://img.shields.io/badge/SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project
 )
