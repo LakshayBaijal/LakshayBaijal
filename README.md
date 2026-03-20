@@ -53,6 +53,8 @@
 
 ### Projects
 
+[![Repo Intelligence](https://img.shields.io/badge/Live%20Repo-Intelligence%20PR%20based%20LLM%20Auto%20%Rater20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Repo-Intelligence_PR-based-LLM-Auto-Rater---Live-Project)
+
 
 [![SignalMesh Project](https://img.shields.io/badge/Live%20Project-SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project)
 
