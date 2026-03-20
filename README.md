@@ -53,10 +53,10 @@
 
 ### Projects
 
-[![Repo Intelligence](https://img.shields.io/badge/Live%20Project-Repo%20Intelligence%20PR%20based%20LLM%20Auto%20%Rater20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Repo-Intelligence_PR-based-LLM-Auto-Rater---Live-Project)
-
-
 [![SignalMesh Project](https://img.shields.io/badge/Live%20Project-SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project)
+
+
+[![SignalMesh Project](https://img.shields.io/badge/Live%20Project-Repo%20Intelligence%20PR%20based%20LLM%20Auto%20Rater-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Repo-Intelligence_PR-based-LLM-Auto-Rater---Live-Project)
 
 [![ML Project](https://img.shields.io/badge/Project-ML%20Unsupervised%20Anomaly%20Detection%20in%20System%20Logs-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Project---Unsupervised-Anomaly-Detection-in-System-Logs)
 
