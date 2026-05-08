@@ -55,6 +55,7 @@
 
 [![SignalMesh Project](https://img.shields.io/badge/Live%20Project-SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project)
 
+[![DocuMind Project](https://img.shields.io/badge/Live%20Project-DocuMind%20Vision%20Language%20Model%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project)
 
 [![Repo Intelligence](https://img.shields.io/badge/Live%20Project-Repo%20Intelligence%20PR%20based%20LLM%20Auto%20Rater-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Repo-Intelligence_PR-based-LLM-Auto-Rater---Live-Project)
 
