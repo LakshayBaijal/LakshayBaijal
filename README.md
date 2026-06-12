@@ -60,6 +60,9 @@
 [![Repo Intelligence](https://img.shields.io/badge/Live%20Project-Repo%20Intelligence%20PR%20based%20LLM%20Auto%20Rater-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Repo-Intelligence_PR-based-LLM-Auto-Rater---Live-Project)
 
 ### Projects  
+
+[![PG Project](https://img.shields.io/badge/Project-PG%20-%20Log%20Analysis%20for%20Cisco%20Wireless%20SNMP%20Trap-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PG-Project-Log-Analysis)
+
 [![ML Project](https://img.shields.io/badge/Project-ML%20Unsupervised%20Anomaly%20Detection%20in%20System%20Logs-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Project---Unsupervised-Anomaly-Detection-in-System-Logs)
 
 
