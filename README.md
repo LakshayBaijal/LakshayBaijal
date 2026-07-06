@@ -51,6 +51,9 @@
 
 [![Information Retrieval and Extraction](https://img.shields.io/badge/Project-Information%20Retrieval%20and%20Extraction-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Project)
 
+### IIIT Hyderabad Semester 4
+[![Information Retrieval and Extraction](https://github.com/LakshayBaijal/Computer-Vision_Assignments_Lakshay)](https://img.shields.io/badge/Project-Computer%20Vision-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Project)
+
 ### Live Projects
 
 [![SignalMesh Project](https://img.shields.io/badge/Live%20Project-SignalMesh%20Real%20Time%20Communication%20Platform%20Live%20Project-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/SignalMesh-Real-Time-Communication-Platform---Live-Project)
