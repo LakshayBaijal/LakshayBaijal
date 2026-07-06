@@ -52,7 +52,7 @@
 [![Information Retrieval and Extraction](https://img.shields.io/badge/Project-Information%20Retrieval%20and%20Extraction-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Project)
 
 ### IIIT Hyderabad Semester 4
-[![Information Retrieval and Extraction](https://github.com/LakshayBaijal/Computer-Vision_Assignments_Lakshay)](https://img.shields.io/badge/Project-Computer%20Vision-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Project)
+[![Information Retrieval and Extraction](https://img.shields.io/badge/Course-Computer%20Vision-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Computer-Vision_Assignments_Lakshay)
 
 ### Live Projects
 
