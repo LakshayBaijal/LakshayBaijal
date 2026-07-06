@@ -52,7 +52,9 @@
 [![Information Retrieval and Extraction](https://img.shields.io/badge/Project-Information%20Retrieval%20and%20Extraction-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/IRE_Project)
 
 ### IIIT Hyderabad Semester 4
-[![Information Retrieval and Extraction](https://img.shields.io/badge/Course-Computer%20Vision-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Computer-Vision_Assignments_Lakshay)
+[![Information Retrieval and Extraction](https://img.shields.io/badge/Course-Computer%20Vision-28A745?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/Computer-Vision_Assignments_Lakshay)
+
+[![Major Project](https://img.shields.io/badge/Major%20Project-Log%20Analysis%20for%20Cisco%20Wireless%20SNMP%20Trap-FF0040?style=for-the-badge&logo=mortarboard&logoColor=white)](https://github.com/LakshayBaijal/PG-Project-Log-Analysis)
 
 ### Live Projects
 
